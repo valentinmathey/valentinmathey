@@ -1,5 +1,5 @@
 # Hi, I'm Valentin 👋🧑🏻‍💻
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+⚡ Estudio ingeniería en sistemas y soy desarrollador Full Stack. Soy responsable y comprometido con mis tareas. Conozco metodologías ágiles y trabajo bien en equipo. Siempre estoy dispuesto a aprender cosas nuevas.
 
 
 ## 🌐 Socials:
