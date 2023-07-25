@@ -42,11 +42,14 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valentinmathey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valentinmathey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=valentinmathey&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
+![](https://github-readme-stats.vercel.app/api?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=valentinmathey&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
