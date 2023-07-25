@@ -49,9 +49,7 @@
 </div> 
 
 ## 🏆 GitHub Trophies
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=valentinmathey&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="stats graph" /> <br>
-</div> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valentinmathey&icon=0&color=3)](https://visitcount.itsvg.in)
