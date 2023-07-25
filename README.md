@@ -42,18 +42,14 @@
 </div>
 
 # 📊 GitHub Stats:
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentinmathey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valentinmathey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=valentinmathey&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> -->
-![](https://github-readme-stats.vercel.app/api?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=valentinmathey&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinmathey&theme=blue-green&hide_border=true" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+</div> 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=valentinmathey&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=valentinmathey&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valentinmathey&icon=0&color=3)](https://visitcount.itsvg.in)
