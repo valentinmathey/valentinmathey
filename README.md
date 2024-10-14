@@ -70,7 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinmathey&theme=blue-green&hide_border=true" height="150" alt="streak graph" />
 </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=valentinmathey&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="stats graph" /> <br>
 
 # 🌐 Socials:
