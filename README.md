@@ -65,9 +65,9 @@
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinmathey&theme=blue-green&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinmathey&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ## 🏆 GitHub Trophies
