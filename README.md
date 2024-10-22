@@ -17,6 +17,8 @@
   <img src="https://javadoc.io/static/org.mockito/mockito-core/3.6.0/org/mockito/logo.png" height="40" alt="mockito logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
 # 💻 Tech Stack:
