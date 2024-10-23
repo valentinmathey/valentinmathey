@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://h2database.com/html/images/h2-logo-2.png" height="40" alt="h2 logo" />
+  <img src="https://dbdb.io/media/logos/h2-logo.svg" height="40" alt="h2 logo" />
 </div>
 
 # 💻 Tech Stack:
