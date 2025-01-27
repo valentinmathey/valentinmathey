@@ -20,6 +20,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material-UI logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" height="40" alt="thymeleaf logo"  />
 </div>
 
@@ -80,8 +84,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="40" alt="tailwind logo" />
+  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height="40" alt="Django logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="Django logo" />
+  <img width="12" />
+  
 </div>
 
 ## 📊 GitHub Analytics
